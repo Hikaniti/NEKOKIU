@@ -1,0 +1,507 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="”viewport”" content="”width=device-width,initial-scale=1″">
+  <title>SPELTORYについて | 株式会社スペルトリー</title>
+  <link rel="icon" href="">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+</head>
+
+<body>
+  <header>
+    <h1 class="title">
+      <a href="https://x.gd/62ndZ">
+        <img src="https://x.gd/62ndZ" class="logo">
+      </a>
+    </h1>
+    <nav>
+      <ul class="menu-g">
+        <li class="menu-a">
+          <a href="" class="a">SPELTORYについて</a>
+        </li>
+        <li class="menu-a">
+          <a href="" class="a">事業</a>
+        </li>
+        <li class="menu-a">
+          <a href="" class="a">ニュース</a>
+        </li>
+        <li class="menu-a">
+          <a href="" class="a">採用</a>
+        </li>
+        <li class="menu-a">
+          <a href="" class="a">IR</a>
+        </li>
+        <li class="menu-a">
+          <a href="" class="a">プロモーション</a>
+        </li>
+        <li class="menu-a">
+          <a href="" class="b">JP</a>
+        </li>
+        <p class="line">|</p>
+        <li class="menu-a">
+          <a href="" class="c">EN</a>
+        </li>
+      </ul>
+    </nav>
+  </header>
+  <div class="ham js-ham sp-show">
+    <span>
+    </span>
+    <span>
+    </span>
+    <p class="ham-p">Menu</p>
+  </div>
+  <div class="drawer js-drawer">
+    <div class="drawer-inner">
+      <div class="drawer__nav">
+        <div class="div1">
+          <ul class="drawer__list">
+            <li class="drawer__item">
+              <a href="" class="drawer__link" id="ham-i">Top　　　　　　　　　　　　　　
+                <i class="fa-solid fa-arrow-right" id="i"></i>
+                <hr class="under">
+              </a>
+            </li>
+            <li class="drawer__item">
+              <a href="" class="drawer__link" id="ham-i">SPELTORYについて　　　　　　　
+                <i class="fa-solid fa-arrow-right" id="i"></i>
+                <hr class="under">
+              </a>
+            </li>
+            <li class="drawer__item">
+              <a href="" class="drawer__link" id="ham-i">事業　　　　　　　　　　　　　　
+                <i class="fa-solid fa-arrow-right" id="i"></i>
+                <hr class="under">
+              </a>
+            </li>
+            <li class="drawer__item">
+              <a href="" class="drawer__link" id="ham-i">ニュース　　　　　　　　　　　　
+                <i class="fa-solid fa-arrow-right" id="i"></i>
+                <hr class="under">
+              </a>
+              <p class="etc">
+                <i class="fa-solid fa-minus" id="i2"></i>〇〇プロダクション運営</p>
+              <p class="etc">
+                <i class="fa-solid fa-minus" id="i2"></i>〇〇〇〇</p>
+              <p class="etc">
+                <i class="fa-solid fa-minus" id="i2"></i>〇〇〇〇</p>
+            </li>
+          </ul>
+        </div>
+        <div class="div2">
+          <ul class="drawer__list2">
+            <li class="drawer__item">
+              <a href="" class="drawer__link" id="ham-i">採用　　　　　　　　　　　　　　
+                <i class="fa-solid fa-arrow-right" id="i"></i>
+                <hr class="under">
+              </a>
+              <p class="etc2">
+                <i class="fa-solid fa-minus" id="i2"></i>新卒・インターン　
+                <i class="fa-solid fa-arrow-up-right-from-square" id="i3"></i>
+              </p>
+              <p class="etc2">
+                <i class="fa-solid fa-minus" id="i2"></i>キャリア採用</p>
+              <p class="etc2">
+                <i class="fa-solid fa-minus" id="i2"></i>カバーを知る</p>
+              <p class="etc2">
+                <i class="fa-solid fa-minus" id="i2"></i>仕事を知る</p>
+              <p class="etc2">
+                <i class="fa-solid fa-minus" id="i2"></i>働く環境を知る</p>
+              <p class="etc2">
+                <i class="fa-solid fa-minus" id="i2"></i>カルチャー</p>
+            </li>
+            <li class="drawer__item">
+              <a href="" class="drawer__link" id="ham-i">IR　　　　　　　　　　　　　　　
+                <i class="fa-solid fa-arrow-right" id="i"></i>
+                <hr class="under">
+              </a>
+              <p class="etc3">
+                <i class="fa-solid fa-minus" id="i2"></i>トップコメント</p>
+              <p class="etc3">
+                <i class="fa-solid fa-minus" id="i2"></i>コーポレート・ガバナンス</p>
+              <p class="etc3">
+                <i class="fa-solid fa-minus" id="i2"></i>IRニュース</p>
+              <p class="etc3">
+                <i class="fa-solid fa-minus" id="i2"></i>IRカレンダー</p>
+              <p class="etc3">
+                <i class="fa-solid fa-minus" id="i2"></i>ディスクロージャーポリシー</p>
+              <p class="etc3">
+                <i class="fa-solid fa-minus" id="i2"></i>IRライブラリー</p>
+              <p class="etc3">
+                <i class="fa-solid fa-minus" id="i2"></i>業績ハイライト</p>
+              <p class="etc3">
+                <i class="fa-solid fa-minus" id="i2"></i>株式情報</p>
+              <p class="etc3">
+                <i class="fa-solid fa-minus" id="i2"></i>よくあるご質問</p>
+              <p class="etc3">
+                <i class="fa-solid fa-minus" id="i2"></i>免責事項</p>
+            </li>
+            <li class="drawer__item">
+              <a href="" class="drawer__link" id="ham-i">プロモーション　　　　　　　　　
+                <i class="fa-solid fa-arrow-right" id="i"></i>
+                <hr class="under">
+              </a>
+            </li>
+            <li class="drawer__item">
+              <a href="" class="drawer__link" id="ham-i">私達の未来展望　　　　　　　　　
+                <i class="fa-solid fa-arrow-right" id="i"></i>
+                <hr class="under">
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="div3">
+          <ul class="drawer__list3">
+            <li class="lis">
+              <a href="" class="drawer__link" id="ham-i">お問い合わせ　　　　　　　　　　
+                <i class="fa-solid fa-arrow-right" id="i"></i>
+                <hr class="under">
+              </a>
+            </li>
+            <li class="lis1">
+              <a href="" class="drawer__link" id="ham-i">プライバシーポリシー　　　　　　
+                <i class="fa-solid fa-arrow-right" id="i"></i>
+                <hr class="under">
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="div3">
+          <ul class="drawer__list4">
+            <li class="lis">
+              <a href="" class="drawer__link" id="ham-i">情報セキュリティ基本方針　 　　　
+                <i class="fa-solid fa-arrow-right" id="i"></i>
+                <hr class="under">
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="sub-head">
+    <p class="midashi">SPELTORYについて</p>
+    <p class="Company">Company</p>
+  </div>
+  <div class="con1">
+    <p class="sub-head" id="mis">Mission
+      <span class="mis">　 ミッション</span>
+    </p>
+    <div class="h1">
+      <p class="sub-head">清く。
+        <br>正しく。
+        <br>美しく。</p>
+    </div>
+    <p class="sub-head" id="set">個性豊かなクリエイターの輝ける舞台を。</p>
+    <p class="sub-head" id="set">私たちはそれを支え続けます。</p>
+  </div>
+  <div class="con2">
+    <p class="sub-head" id="mis2">Value
+      <span class="mis2">　 SPELTORYのバリュー</span>
+    </p>
+    <div class="h1" id="h1">
+      <p class="sub-head" id="h1">○○○○</p>
+      <p class="sub-head" id="h1">○○○○</p>
+      <p class="sub-head" id="h1">○○○○</p>
+    </div>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+  </div>
+  <div class="con3">
+    <p class="sub-head" id="mis">Top Message
+      <span class="mis">　 トップメッセージ</span>
+    </p>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+  </div>
+  <div class="con6">
+    <hr class="kugi">
+    <p class="sub-head" id="mis3">経営陣</p>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <hr class="kugi">
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <hr class="kugi">
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+  </div>
+  <div class="con5">
+    <hr class="kugi">
+    <p class="sub-head" id="mis4">会社概要
+      <span class="mis4">　 ※2025年5月現在</span>
+    </p>
+    <div class="flex">
+      <p class="sub-head" id="con5">会社名　　</p>
+      <p class="right-p" id="con5">株式会社 スペルトリー "SPELTORY Corpration"</p>
+    </div>
+    <hr class="sub-head" width="82%" align="center" id="hr1">
+    <div class="flex">
+      <p class="sub-head" id="con5">所在地　　</p>
+      <p class="right-p" id="con5">〒545-6016 大阪府大阪市阿倍野区阿倍野筋1-1-43</p>
+    </div>
+    <hr class="sub-head" width="82%" align="left" id="hr1">
+    <div class="flex">
+      <p class="sub-head" id="con5">資本金　　</p>
+      <p class="right-p" id="con5">280万円</p>
+    </div>
+    <hr class="sub-head" width="82%" align="left" id="hr1">
+    <div class="flex">
+      <p class="sub-head" id="con5">設立　　　</p>
+      <p class="right-p" id="con5">2019年6月6日</p>
+    </div>
+    <hr class="sub-head" width="82%" align="left" id="hr1">
+    <div class="flex">
+      <p class="sub-head" id="con5">代表取締役</p>
+      <p class="right-p" id="con5">斎藤 恭兵</p>
+    </div>
+    <hr class="sub-head" width="82%" align="left" id="hr1">
+    <div class="flex">
+      <p class="sub-head" id="con5">取締役　　</p>
+      <p class="right-p" id="con5">立入 道造、日霧 二葉、山田 弘、雨野 歩夢</p>
+    </div>
+    <hr class="sub-head" width="82%" align="left" id="hr1">
+    <div class="flex">
+      <p class="sub-head" id="con5">社員数　　</p>
+      <p class="right-p" id="con5">135名</p>
+    </div>
+    <hr class="sub-head" width="82%" align="left" id="hr1">
+    <div class="flex">
+      <p class="sub-head" id="con5">業界団体※入会順</p>
+      <p class="right-p1" id="con5">後日掲載</p>
+    </div>
+  </div>
+  <div class="con6">
+    <hr class="kugi">
+    <p class="sub-head" id="mis4">沿革</p>
+    <div class="flex">
+      <p class="sub-head" id="con5">0000年</p>
+      <p class="right-p" id="con5">☓</p>
+    </div>
+    <hr class="sub-head" width="82%" align="center" id="hr1">
+    <div class="flex">
+      <p class="sub-head" id="con5">0000年</p>
+      <p class="right-p" id="con5">☓</p>
+    </div>
+    <hr class="sub-head" width="82%" align="center" id="hr1">
+    <div class="flex">
+      <p class="sub-head" id="con5">0000年</p>
+      <p class="right-p" id="con5">☓</p>
+    </div>
+    <hr class="sub-head" width="82%" align="center" id="hr1">
+    <div class="flex">
+      <p class="sub-head" id="con5">0000年</p>
+      <p class="right-p" id="con5">☓</p>
+    </div>
+    <hr class="sub-head" width="82%" align="center" id="hr1">
+    <div class="flex">
+      <p class="sub-head" id="con5">0000年</p>
+      <p class="right-p" id="con5">☓</p>
+    </div>
+    <hr class="sub-head" width="82%" align="center" id="hr1">
+    <div class="flex">
+      <p class="sub-head" id="con5">0000年</p>
+      <p class="right-p" id="con5">☓</p>
+    </div>
+    <hr class="sub-head" width="82%" align="center" id="hr1">
+    <div class="flex">
+      <p class="sub-head" id="con5">0000年</p>
+      <p class="right-p" id="con5">☓</p>
+    </div>
+    <div class="con8">
+      <p class="kuha"></p>
+    </div>
+    <div class="last">
+      <p class="sub-head">
+        <a class="c" href="" id="kuha2">Top</a>
+        <span class="sp">></span>
+        <span class="sp2">SPELTORYについて</span>
+      </p>
+    </div>
+    <footer>
+      <h1 class="sub-head">
+        <a href="https://x.gd/62ndZ">
+          <img src="https://x.gd/62ndZ" class="logo2">
+        </a>
+      </h1>
+      <div class="menu2">
+        <nav class="nav2">
+          <ul>
+            <li class="sub-head" id="d">
+              <a href="" class="e" id="kuha3" target="_blank">○○○○プロダクション公式サイト　
+                <i class="fa-solid fa-arrow-up-right-from-square"></i>
+              </a>
+            </li>
+            <li class="sub-head" id="d">
+              <a href="" class="e" id="kuha3" target="_blank">○○○○プロダクション公式サイト　
+                <i class="fa-solid fa-arrow-up-right-from-square"></i>
+              </a>
+            </li>
+            <li class="sub-head" id="d">
+              <a href="" class="e" id="kuha3" target="_blank">○○○○プロダクション公式サイト　
+                <i class="fa-solid fa-arrow-up-right-from-square"></i>
+              </a>
+            </li>
+            <li class="sub-head" id="d">
+              <a href="" class="e" id="kuha3" target="_blank">○○○○プロダクション公式サイト　
+                <i class="fa-solid fa-arrow-up-right-from-square"></i>
+              </a>
+            </li>
+            <li class="sub-head" id="d">
+              <a href="" class="e" id="kuha3" target="_blank">○○○○プロダクション公式サイト　
+                <i class="fa-solid fa-arrow-up-right-from-square"></i>
+              </a>
+            </li>
+            <li class="sub-head" id="d">
+              <a href="" class="e" id="kuha3" target="_blank">○○○○プロダクション公式サイト　
+                <i class="fa-solid fa-arrow-up-right-from-square"></i>
+              </a>
+            </li>
+          </ul>
+        </nav>
+        <nav class="mar">
+          <ul>
+            <li class="sub-head" id="d">
+              <a href="" class="a">SPELTORYについて</a>
+            </li>
+            <li class="sub-head" id="d">
+              <a href="" class="a">事業</a>
+            </li>
+            <li class="sub-head" id="d">
+              <a href="" class="a">ニュース</a>
+            </li>
+            <li class="sub-head" id="d">
+              <a href="" class="a">採用</a>
+            </li>
+            <li class="sub-head" id="d">
+              <a href="" class="a">IR</a>
+            </li>
+            <li class="sub-head" id="d">
+              <a href="" class="a">プロモーション</a>
+            </li>
+          </ul>
+        </nav>
+      </div>
+      <nav class="nav2">
+        <ul>
+          <li class="sub-head" id="e">
+            <a href="" class="e" id="kuha4">> プライバシーポリシー</a>
+          </li>
+          <li class="sub-head" id="e">
+            <a href="" class="e" id="kuha4">> 情報セキュリティ基本方針</a>
+          </li>
+          <li class="sub-head" id="e">
+            <a href="" class="e" id="kuha4" target="_blank">> 二次創作ガイドライン　
+              <i class="fa-solid fa-arrow-up-right-from-square"></i>
+            </a>
+          </li>
+          <li class="sub-head" id="e">
+            <a href="" class="e" id="kuha4" target="_blank">> 未成年の方々へのお願い　
+              <i class="fa-solid fa-arrow-up-right-from-square"></i>
+            </a>
+          </li>
+        </ul>
+      </nav>
+      <div class="food">
+        <p class="sub-head" id="at">@SPELTORY</p>
+        <nav class="ja">
+          <ul>
+            <li class="menu-a">
+              <a href="" class="b">JP</a>
+            </li>
+            <p class="line">|</p>
+            <li class="menu-a">
+              <a href="" class="c">EN</a>
+            </li>
+          </ul>
+        </nav>
+        <a href="https://www.x.com" target="_blank">
+          <img src="https://x.gd/aPRZN" class="x">
+        </a>
+        <a href="https://jp.linkedin.com" target="_blank">
+          <img src="https://x.gd/p0ak5" class="in">
+        </a>
+      </div>
+    </footer>
+  </div>
+</body>
+
+</html>
